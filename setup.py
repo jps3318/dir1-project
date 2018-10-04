@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="dir1",
+    name="dir1-project",
     version="0.0.1",
     description="dir1 package",
     packages=find_packages(),
